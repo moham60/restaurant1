@@ -1,0 +1,26 @@
+.p-20
+{
+    padding: 20px;
+}
+.m-20{
+    margin: 20px;
+}
+.bg-w
+{
+    background-color: white;
+}
+.bg-eee{
+    background-color: #eee;
+}
+.rad-6
+{
+    border-radius: 6px;
+}
+.d-flex
+{
+    display: flex;
+}
+.p-realtive
+{
+    position: relative;
+}
